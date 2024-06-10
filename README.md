@@ -1,10 +1,10 @@
   ### Hiya, I'm Maruf Khan Ornob :3
-  Self thought general 3D artist
+  Self thought general 3D artist<br><br>
 
 ### Let's connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ornobmk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@buggybug1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ornobmk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@buggybug1) <br><br>
 
-# Daily Tools:
+<!--- # Daily Tools:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -12,10 +12,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) -->
 
 # Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marufx86&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marufx86&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br><br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Unreal Engine: Level Up Your Game with HDRI Parallax](https://ytcards.demolab.com/?id=bNRaz7iEyuI&title=Unreal+Engine%3A+Level+Up+Your+Game+with+HDRI+Parallax&lang=en&timestamp=1717351142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine: Level Up Your Game with HDRI Parallax")](https://www.youtube.com/watch?v=bNRaz7iEyuI)

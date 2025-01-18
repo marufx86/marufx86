@@ -1,8 +1,8 @@
   ### Hiya, I'm Maruf Khan Ornob :3
-  Self thought general 3D artist and junior Unreal Engine Dev<br><br>
+  Self thought general 3D artist and Unreal Engine Dev<br><br>
 
 ### Let's connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ornobmk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@buggybug1) <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ornobmk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@buggybug1) [![Artstation](https://img.shields.io/badge/Artstation-%2313B5EA.svg?logo=artstation&logoColor=white)](https://ornobmk.artstation.com/) <br><br>
 
 ### My Code Snippets
 
@@ -30,8 +30,6 @@
 [![Unreal Engine 5 Widget Switch Tutorial: Create a Seamless Menu System](https://ytcards.demolab.com/?id=aX7W1dKOGcU&title=Unreal+Engine+5+Widget+Switch+Tutorial%3A+Create+a+Seamless+Menu+System&lang=en&timestamp=1733601459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine 5 Widget Switch Tutorial: Create a Seamless Menu System")](https://www.youtube.com/watch?v=aX7W1dKOGcU)
 <!-- END YOUTUBE-CARDS -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marufx86&icon=1&color=0)](https://visitcount.itsvg.in)

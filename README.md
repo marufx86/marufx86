@@ -6,7 +6,7 @@
 
 ### My Code Snippets
 
-[UE5 Material Automation](https://gist.github.com/marufx86/8299521b64e56783e67498a7212876c3)
+[UE5 Assign Material Automation](https://gist.github.com/marufx86/8299521b64e56783e67498a7212876c3)
 
 <!--- # Daily Tools:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 

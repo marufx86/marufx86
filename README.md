@@ -18,9 +18,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) -->
 
-# Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marufx86&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br><br>
-
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Unreal Engine Advanced Files Viewer | Instantly See Mesh Size, Materials, UV Channels & More!](https://ytcards.demolab.com/?id=XVV-gI1WWKM&title=Unreal+Engine+Advanced+Files+Viewer+%7C+Instantly+See+Mesh+Size%2C+Materials%2C+UV+Channels+%26+More%21&lang=en&timestamp=1746875705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine Advanced Files Viewer | Instantly See Mesh Size, Materials, UV Channels & More!")](https://www.youtube.com/watch?v=XVV-gI1WWKM)
 [![How to Use Kelvin Light Temperatures in Unreal Engine | Easy Lighting Tips](https://ytcards.demolab.com/?id=6hMDMV7FWEA&title=How+to+Use+Kelvin+Light+Temperatures+in+Unreal+Engine+%7C+Easy+Lighting+Tips&lang=en&timestamp=1746270008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Use Kelvin Light Temperatures in Unreal Engine | Easy Lighting Tips")](https://www.youtube.com/watch?v=6hMDMV7FWEA)

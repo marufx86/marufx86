@@ -8,6 +8,9 @@
 
 [UE5 Assign Material Automation](https://gist.github.com/marufx86/8299521b64e56783e67498a7212876c3)
 
+### Latest YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marufx86&icon=1&color=0)](https://visitcount.itsvg.in)

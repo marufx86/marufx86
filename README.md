@@ -23,7 +23,7 @@
 
 ### 🏆 Certifications
 
-#### 🎮 Unreal Engine & Game Development
+##  Unreal Engine & Game Development
 <a href="https://www.udemy.com/certificate/UC-f5789bcc-fd04-4c68-a325-234aa2b26c75/">
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f5789bcc-fd04-4c68-a325-234aa2b26c75.jpg?v=1750801621000" width="400" alt="Udemy Certificate">
 </a>
@@ -37,7 +37,7 @@
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ac93730b-aacb-43b7-8de2-002d8e3bcec6.jpg?v=1750657598000" width="400" alt="Udemy Certificate">
 </a>
 
-#### 🎨 Technical Art & 3D Modeling
+##  Technical Art & 3D Modeling
 <a href="https://www.udemy.com/certificate/UC-786ca7eb-f479-40da-a3bc-90361725ba44/">
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-786ca7eb-f479-40da-a3bc-90361725ba44.jpg?v=1771400639000" width="400" alt="Udemy Certificate">
 </a>
@@ -48,7 +48,7 @@
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f7f64a11-970b-46b6-9e84-e24a5c267e37.jpg?v=1724390468000" width="400" alt="Udemy Certificate">
 </a>
 
-#### 💻 Specialized Workflows
+##  Specialized Workflows
 <a href="https://www.udemy.com/certificate/UC-598b522f-b2ef-49ab-b320-cdc80bf0d94a/">
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-598b522f-b2ef-49ab-b320-cdc80bf0d94a.jpg?v=1724393391000" width="400" alt="Udemy Certificate">
 </a>

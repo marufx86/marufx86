@@ -10,12 +10,7 @@
 
 ### Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How to Disable Motion Blur in Unreal Engine in 30 Seconds](https://ytcards.demolab.com/?id=WhY3CZuosGY&title=How+to+Disable+Motion+Blur+in+Unreal+Engine+in+30+Seconds&lang=en&timestamp=1772877644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Disable Motion Blur in Unreal Engine in 30 Seconds")](https://www.youtube.com/watch?v=WhY3CZuosGY)
-[![Rain Demo Unreal Engine 5](https://ytcards.demolab.com/?id=RiZ0bYUJk8w&title=Rain+Demo+Unreal+Engine+5&lang=en&timestamp=1772434171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rain Demo Unreal Engine 5")](https://www.youtube.com/shorts/RiZ0bYUJk8w)
-[![How to Quickly Create Lighting in Unreal Engine 5 Under 40 Seconds](https://ytcards.demolab.com/?id=kaDLTXWd0AE&title=How+to+Quickly+Create+Lighting+in+Unreal+Engine+5+Under+40+Seconds&lang=en&timestamp=1772268304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Quickly Create Lighting in Unreal Engine 5 Under 40 Seconds")](https://www.youtube.com/watch?v=kaDLTXWd0AE)
-[![Unreal Engine Lighting Tutorial: How to Orbit Lights Around Objects](https://ytcards.demolab.com/?id=jao0rO1-dGc&title=Unreal+Engine+Lighting+Tutorial%3A+How+to+Orbit+Lights+Around+Objects&lang=en&timestamp=1771670705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine Lighting Tutorial: How to Orbit Lights Around Objects")](https://www.youtube.com/watch?v=jao0rO1-dGc)
-[![How to Optimize Unreal Engine 5 Projects for 120+ FPS | GPU Lightmass Tutorial](https://ytcards.demolab.com/?id=nlx2uOXoEOc&title=How+to+Optimize+Unreal+Engine+5+Projects+for+120%2B+FPS+%7C+GPU+Lightmass+Tutorial&lang=en&timestamp=1771065909&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Optimize Unreal Engine 5 Projects for 120+ FPS | GPU Lightmass Tutorial")](https://www.youtube.com/watch?v=nlx2uOXoEOc)
-[![Unreal Engine Lighting Without FPS Loss (Best Performance Trick)](https://ytcards.demolab.com/?id=O2m05eQb1_s&title=Unreal+Engine+Lighting+Without+FPS+Loss+%28Best+Performance+Trick%29&lang=en&timestamp=1770455702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine Lighting Without FPS Loss (Best Performance Trick)")](https://www.youtube.com/watch?v=O2m05eQb1_s)
+
 <!-- END YOUTUBE-CARDS -->
 
 ---

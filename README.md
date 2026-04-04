@@ -10,12 +10,7 @@
 
 ### Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Best Render Settings for Unreal Engine 5 Lumen Projects](https://ytcards.demolab.com/?id=5neKfZfMARo&title=Best+Render+Settings+for+Unreal+Engine+5+Lumen+Projects&lang=en&timestamp=1774693802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best Render Settings for Unreal Engine 5 Lumen Projects")](https://www.youtube.com/watch?v=5neKfZfMARo)
-[![How to Create God Rays in Unreal Engine 5 (Directional Light Tutorial)](https://ytcards.demolab.com/?id=DoBZOGIGcoc&title=How+to+Create+God+Rays+in+Unreal+Engine+5+%28Directional+Light+Tutorial%29&lang=en&timestamp=1774084503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Create God Rays in Unreal Engine 5 (Directional Light Tutorial)")](https://www.youtube.com/watch?v=DoBZOGIGcoc)
-[![Fix Sharp Shadows in Unreal Engine 5 | Soft Shadows Tutorial](https://ytcards.demolab.com/?id=qMTG8FO1-14&title=Fix+Sharp+Shadows+in+Unreal+Engine+5+%7C+Soft+Shadows+Tutorial&lang=en&timestamp=1773483312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fix Sharp Shadows in Unreal Engine 5 | Soft Shadows Tutorial")](https://www.youtube.com/watch?v=qMTG8FO1-14)
-[![How to Disable Motion Blur in Unreal Engine in 30 Seconds](https://ytcards.demolab.com/?id=WhY3CZuosGY&title=How+to+Disable+Motion+Blur+in+Unreal+Engine+in+30+Seconds&lang=en&timestamp=1772877644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Disable Motion Blur in Unreal Engine in 30 Seconds")](https://www.youtube.com/watch?v=WhY3CZuosGY)
-[![Rain Demo Unreal Engine 5](https://ytcards.demolab.com/?id=RiZ0bYUJk8w&title=Rain+Demo+Unreal+Engine+5&lang=en&timestamp=1772434171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rain Demo Unreal Engine 5")](https://www.youtube.com/shorts/RiZ0bYUJk8w)
-[![How to Quickly Create Lighting in Unreal Engine 5 Under 40 Seconds](https://ytcards.demolab.com/?id=kaDLTXWd0AE&title=How+to+Quickly+Create+Lighting+in+Unreal+Engine+5+Under+40+Seconds&lang=en&timestamp=1772268304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Quickly Create Lighting in Unreal Engine 5 Under 40 Seconds")](https://www.youtube.com/watch?v=kaDLTXWd0AE)
+
 <!-- END YOUTUBE-CARDS -->
 
 ---

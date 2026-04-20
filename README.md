@@ -10,7 +10,12 @@
 
 ### Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Vintage Table Fan (Rusted/Worn)-  4K PBR Asset Showcase](https://ytcards.demolab.com/?id=h8y0xwVJEbA&title=Vintage+Table+Fan+%28Rusted%2FWorn%29-++4K+PBR+Asset+Showcase&lang=en&timestamp=1776502854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Vintage Table Fan (Rusted/Worn)-  4K PBR Asset Showcase")](https://www.youtube.com/watch?v=h8y0xwVJEbA)
+[![Desert Market Stall - Game Ready Asset | Unreal Engine & Unity Showcase](https://ytcards.demolab.com/?id=-5ByG3BDtT8&title=Desert+Market+Stall+-+Game+Ready+Asset+%7C+Unreal+Engine+%26+Unity+Showcase&lang=en&timestamp=1775898901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Desert Market Stall - Game Ready Asset | Unreal Engine & Unity Showcase")](https://www.youtube.com/watch?v=-5ByG3BDtT8)
+[![Unreal Engine 5: How to Create GOBO Lights (Texture Projection Tutorial)](https://ytcards.demolab.com/?id=00QDzYalynQ&title=Unreal+Engine+5%3A+How+to+Create+GOBO+Lights+%28Texture+Projection+Tutorial%29&lang=en&timestamp=1775292301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine 5: How to Create GOBO Lights (Texture Projection Tutorial)")](https://www.youtube.com/watch?v=00QDzYalynQ)
+[![Best Render Settings for Unreal Engine 5 Lumen Projects](https://ytcards.demolab.com/?id=5neKfZfMARo&title=Best+Render+Settings+for+Unreal+Engine+5+Lumen+Projects&lang=en&timestamp=1774693802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best Render Settings for Unreal Engine 5 Lumen Projects")](https://www.youtube.com/watch?v=5neKfZfMARo)
+[![How to Create God Rays in Unreal Engine 5 (Directional Light Tutorial)](https://ytcards.demolab.com/?id=DoBZOGIGcoc&title=How+to+Create+God+Rays+in+Unreal+Engine+5+%28Directional+Light+Tutorial%29&lang=en&timestamp=1774084503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Create God Rays in Unreal Engine 5 (Directional Light Tutorial)")](https://www.youtube.com/watch?v=DoBZOGIGcoc)
+[![Fix Sharp Shadows in Unreal Engine 5 | Soft Shadows Tutorial](https://ytcards.demolab.com/?id=qMTG8FO1-14&title=Fix+Sharp+Shadows+in+Unreal+Engine+5+%7C+Soft+Shadows+Tutorial&lang=en&timestamp=1773483312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fix Sharp Shadows in Unreal Engine 5 | Soft Shadows Tutorial")](https://www.youtube.com/watch?v=qMTG8FO1-14)
 <!-- END YOUTUBE-CARDS -->
 
 ---

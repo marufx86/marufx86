@@ -22,6 +22,11 @@
 [![](https://visitcount.itsvg.in/api?id=marufx86&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ### 🏆 Certifications
+ 
+##  AI & Agent Development
+<a href="https://verify.skilljar.com/c/g2u7qjf8y69u">
+  <img src="https://github.com/user-attachments/assets/3803a5d8-0b63-4570-b181-eb266d90d095" width="400" alt="Anthropic - Introduction to Agent Skills">
+</a>
 
 ##  Unreal Engine & Game Development
 <a href="https://www.udemy.com/certificate/UC-f5789bcc-fd04-4c68-a325-234aa2b26c75/">

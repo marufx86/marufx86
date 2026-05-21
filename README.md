@@ -10,7 +10,12 @@
 
 ### Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Fixing Multiplayer "Access None" Blueprint Errors in Unreal Engine 5](https://ytcards.demolab.com/?id=X3tSFEDOMoo&title=Fixing+Multiplayer+%22Access+None%22+Blueprint+Errors+in+Unreal+Engine+5&lang=en&timestamp=1778925647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fixing Multiplayer \"Access None\" Blueprint Errors in Unreal Engine 5")](https://www.youtube.com/watch?v=X3tSFEDOMoo)
+[![Stop Wasting GPU Power in UE5 (Fix FPS Before Packaging)](https://ytcards.demolab.com/?id=64IBbNrL6sk&title=Stop+Wasting+GPU+Power+in+UE5+%28Fix+FPS+Before+Packaging%29&lang=en&timestamp=1778318100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stop Wasting GPU Power in UE5 (Fix FPS Before Packaging)")](https://www.youtube.com/watch?v=64IBbNrL6sk)
+[![How to Transfer Assets & Materials Between Unreal Engine Projects](https://ytcards.demolab.com/?id=VVX_8R1e0Nc&title=How+to+Transfer+Assets+%26+Materials+Between+Unreal+Engine+Projects&lang=en&timestamp=1777709705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Transfer Assets & Materials Between Unreal Engine Projects")](https://www.youtube.com/watch?v=VVX_8R1e0Nc)
+[![Seamless Multiplayer Elevator System in UE5](https://ytcards.demolab.com/?id=0XF4J0Z16Rs&title=Seamless+Multiplayer+Elevator+System+in+UE5&lang=en&timestamp=1777112100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Seamless Multiplayer Elevator System in UE5")](https://www.youtube.com/watch?v=0XF4J0Z16Rs)
+[![Vintage Table Fan (Rusted/Worn)-  4K PBR Asset Showcase](https://ytcards.demolab.com/?id=h8y0xwVJEbA&title=Vintage+Table+Fan+%28Rusted%2FWorn%29-++4K+PBR+Asset+Showcase&lang=en&timestamp=1776502854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Vintage Table Fan (Rusted/Worn)-  4K PBR Asset Showcase")](https://www.youtube.com/watch?v=h8y0xwVJEbA)
+[![Desert Market Stall - Game Ready Asset | Unreal Engine & Unity Showcase](https://ytcards.demolab.com/?id=-5ByG3BDtT8&title=Desert+Market+Stall+-+Game+Ready+Asset+%7C+Unreal+Engine+%26+Unity+Showcase&lang=en&timestamp=1775898901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Desert Market Stall - Game Ready Asset | Unreal Engine & Unity Showcase")](https://www.youtube.com/watch?v=-5ByG3BDtT8)
 <!-- END YOUTUBE-CARDS -->
 
 ---

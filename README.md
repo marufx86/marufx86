@@ -62,7 +62,12 @@ Technical Artist and Unreal Engine developer specializing in **real-time optimiz
 
 ## Latest from YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![UE5 Tutorial: Make a Widget Follow Your Mouse Cursor](https://ytcards.demolab.com/?id=5jDijYVLoto&title=UE5+Tutorial%3A+Make+a+Widget+Follow+Your+Mouse+Cursor&lang=en&timestamp=1785580225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "UE5 Tutorial: Make a Widget Follow Your Mouse Cursor")](https://www.youtube.com/watch?v=5jDijYVLoto)
+[![Unreal Engine: Parallax Occlusion Mapping Material Demo](https://ytcards.demolab.com/?id=vbTB-7n3yNw&title=Unreal+Engine%3A+Parallax+Occlusion+Mapping+Material+Demo&lang=en&timestamp=1784970909&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine: Parallax Occlusion Mapping Material Demo")](https://www.youtube.com/watch?v=vbTB-7n3yNw)
+[![Fix Your UE5 Blueprint Logic FAST Using Breakpoints](https://ytcards.demolab.com/?id=qHvKxc3NS5k&title=Fix+Your+UE5+Blueprint+Logic+FAST+Using+Breakpoints&lang=en&timestamp=1784368817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fix Your UE5 Blueprint Logic FAST Using Breakpoints")](https://www.youtube.com/watch?v=qHvKxc3NS5k)
+[![Build a Teleport System in UE5! (Sneak Peek)](https://ytcards.demolab.com/?id=cjEYF9ThEeE&title=Build+a+Teleport+System+in+UE5%21+%28Sneak+Peek%29&lang=en&timestamp=1783767609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build a Teleport System in UE5! (Sneak Peek)")](https://www.youtube.com/watch?v=cjEYF9ThEeE)
+[![Fix Vercel 404 on Direct Links & Refresh (404 Deployment Not Found)](https://ytcards.demolab.com/?id=KRxouPmyTBo&title=Fix+Vercel+404+on+Direct+Links+%26+Refresh+%28404+Deployment+Not+Found%29&lang=en&timestamp=1783161002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fix Vercel 404 on Direct Links & Refresh (404 Deployment Not Found)")](https://www.youtube.com/watch?v=KRxouPmyTBo)
+[![How to Make a Teleport System in Unreal Engine 5 (Blueprint Tutorial)](https://ytcards.demolab.com/?id=JUDvQ_HLC80&title=How+to+Make+a+Teleport+System+in+Unreal+Engine+5+%28Blueprint+Tutorial%29&lang=en&timestamp=1782553527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Make a Teleport System in Unreal Engine 5 (Blueprint Tutorial)")](https://www.youtube.com/watch?v=JUDvQ_HLC80)
 <!-- END YOUTUBE-CARDS -->
 
 ## GitHub Stats

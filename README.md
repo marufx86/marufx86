@@ -62,12 +62,7 @@ Technical Artist and Unreal Engine developer specializing in **real-time optimiz
 
 ## Latest from YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How to Create a Aim Offset in Unreal Engine (UE4 / UE5) | Maya Animation Workflow](https://ytcards.demolab.com/?id=rs1Wq0WArlI&title=How+to+Create+a+Aim+Offset+in+Unreal+Engine+%28UE4+%2F+UE5%29+%7C+Maya+Animation+Workflow&lang=en&timestamp=1786788924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Create a Aim Offset in Unreal Engine (UE4 / UE5) | Maya Animation Workflow")](https://www.youtube.com/watch?v=rs1Wq0WArlI)
-[![Create a Custom Progress Bar Slider in Unreal Engine (UE5 / UE4)](https://ytcards.demolab.com/?id=Rfg3LMbaHcQ&title=Create+a+Custom+Progress+Bar+Slider+in+Unreal+Engine+%28UE5+%2F+UE4%29&lang=en&timestamp=1786180532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Create a Custom Progress Bar Slider in Unreal Engine (UE5 / UE4)")](https://www.youtube.com/watch?v=Rfg3LMbaHcQ)
-[![UE5 Tutorial: Make a Widget Follow Your Mouse Cursor](https://ytcards.demolab.com/?id=5jDijYVLoto&title=UE5+Tutorial%3A+Make+a+Widget+Follow+Your+Mouse+Cursor&lang=en&timestamp=1785580225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "UE5 Tutorial: Make a Widget Follow Your Mouse Cursor")](https://www.youtube.com/watch?v=5jDijYVLoto)
-[![Unreal Engine: Parallax Occlusion Mapping Material Demo](https://ytcards.demolab.com/?id=vbTB-7n3yNw&title=Unreal+Engine%3A+Parallax+Occlusion+Mapping+Material+Demo&lang=en&timestamp=1784970909&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine: Parallax Occlusion Mapping Material Demo")](https://www.youtube.com/watch?v=vbTB-7n3yNw)
-[![Fix Your UE5 Blueprint Logic FAST Using Breakpoints](https://ytcards.demolab.com/?id=qHvKxc3NS5k&title=Fix+Your+UE5+Blueprint+Logic+FAST+Using+Breakpoints&lang=en&timestamp=1784368817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fix Your UE5 Blueprint Logic FAST Using Breakpoints")](https://www.youtube.com/watch?v=qHvKxc3NS5k)
-[![Build a Teleport System in UE5! (Sneak Peek)](https://ytcards.demolab.com/?id=cjEYF9ThEeE&title=Build+a+Teleport+System+in+UE5%21+%28Sneak+Peek%29&lang=en&timestamp=1783767609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build a Teleport System in UE5! (Sneak Peek)")](https://www.youtube.com/watch?v=cjEYF9ThEeE)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## GitHub Stats
